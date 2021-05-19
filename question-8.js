@@ -21,7 +21,7 @@ console.log( autoComplete('sal')); //must return [‘Saleem’, ‘Salim’, ‘
 console.log( autoComplete('sali')); //must return [‘Salim’, ‘Salih’]
 console.log( autoComplete('ee')); //must return ['Saleem', 'Sameer']
 console.log( autoComplete('wa')); //must return ['Wassim', 'Wael', 'Wanda']
-console.log( autoComplete('was')); //must return ['Wassim']
+console.log( autoComplete('ss')); //must return ['Wassim']
 
 
 
